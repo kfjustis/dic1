@@ -1,0 +1,3 @@
+/home/kynan/Desktop/dev/digital-image-compression/dic1/build/CMakeFiles/edit_cache.dir
+/home/kynan/Desktop/dev/digital-image-compression/dic1/build/CMakeFiles/rebuild_cache.dir
+/home/kynan/Desktop/dev/digital-image-compression/dic1/build/CMakeFiles/dic1.dir

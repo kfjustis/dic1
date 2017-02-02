@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kynan/Desktop/dev/digital-image-compression/dic1/src/dic1.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+limits.h
+-
+ctype.h
+-
+
